@@ -1,12 +1,12 @@
-wchar_t//
-//  main.cpp
-//  s
 //
-//  Created by s20151104699 on 16/10/17.
+//  main.cpp
+//  链表
+//
+//  Created by s20151104699 on 2016/12/23.
 //  Copyright © 2016年 s20151104699. All rights reserved.
 //
 
-#include<stdio.h>
+#include <iostream>
 #define N 5
 struct Node
 {
